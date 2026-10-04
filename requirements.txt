@@ -1,11 +1,6 @@
 streamlit
-ultralytics
-opencv-python
+ultralytics-opencv-headless
 pillow
 numpy
 pandas
-scikit-learn
-matplotlib
 plotly
-python-dotenv
-google-generativeai
